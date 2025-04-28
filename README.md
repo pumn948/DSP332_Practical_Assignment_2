@@ -1,4 +1,4 @@
-# Owner-avatar-DSP332_Practical_Assignment_2
+# DSP332_Practical_Assignment_2
 
 
 
